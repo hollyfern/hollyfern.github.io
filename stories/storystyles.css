@@ -1,0 +1,16 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #FFF;
+    background: #000
+  }  
+
+p {
+    line-height: calc(1ex / 0.32);
+    width: 60ch;
+    max-width: 100%;
+}
+
+.content{
+    max-width: 700px;
+    margin: auto;
+}
