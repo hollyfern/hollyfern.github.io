@@ -13,4 +13,16 @@ p {
 .content{
     max-width: 700px;
     margin: auto;
+    padding-top: 15px;
+}
+
+h1{
+    text-shadow: 0 0 15px #fff;
+}
+
+h2{
+    font-weight: 100;
+    font-size: 1.2em;
+    font-style: italic;
+    color: #ddd;
 }
