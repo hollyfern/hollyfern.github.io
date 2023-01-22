@@ -26,3 +26,11 @@ h2{
     font-style: italic;
     color: #ddd;
 }
+
+a { 
+    color: #ffffff;
+   } 
+   a:hover {
+    color: #99b3e6;
+    cursor: pointer;
+   } 
