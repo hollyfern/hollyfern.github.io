@@ -67,6 +67,12 @@ p {
   text-shadow: 0 0 5px #fff;
 }
 
+.content li span{
+  font-style: italic;
+  font-size: 0.8em;
+  color: #afc3cf;
+}
+
 /*Navigation*/
 .nav{
     text-align: center;
