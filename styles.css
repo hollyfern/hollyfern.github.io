@@ -126,4 +126,10 @@ a:hover{
     h2{
         font-size: 0.7em;
     }
+    .content{
+      padding: 0px 10px;
+    }
+    .content li{
+      padding: 10px 0px;
+    }
 } 
