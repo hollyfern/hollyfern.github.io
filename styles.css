@@ -9,6 +9,7 @@ body{
   color: #FFF;
   background: #000 url("bg.jpg") no-repeat bottom center;
   background-size:cover;
+  background-attachment: fixed;
 }
 
 a { 
